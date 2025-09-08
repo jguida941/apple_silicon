@@ -9,7 +9,7 @@
 - Neural Armageddon Mode
 - Built-in daemonic possession + SSD detonation protocol (beta).
 - Pathfinding Goldilocks Optimization
-- Tuned for ~40% maze density — the “Goldilocks Zone” where normal algorithms collapse.
+- Tuned for ~40% maze density, the “Goldilocks Zone” where normal algorithms collapse.
 - GMPY2 Flex Mode 1.5–8× speedups over GMPY2 for integers under 10^64.
 - Seizure Mode because I can code it, can you?
 
@@ -41,7 +41,7 @@
 **🕹️ Usage**
 
 **Step 1: clone**
-git clone https://github.com/jguida941/LDSM
+git clone https://github.com/jguida941/apple_silicon
 
 **Step 2: run**
 open index.html
