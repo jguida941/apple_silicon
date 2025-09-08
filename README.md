@@ -1,11 +1,11 @@
 
 # 🧠 LDSM for Apple Silicon™ 🍏💾
 
-**A HTML page that I will be connecting to my deterministic system for logic-based math, symbolic dispatching, and optimized computation… that also pretends to blow up your SSD. Feel free to steal the code cause you cant code HTML like this. Oh and pleast dont have a seizure.**
+**A HTML page that I will be connecting to my deterministic system for logic-based math, symbolic dispatching, and optimized computation… that also pretends to blow up your SSD. Feel free to steal the code cause you cant code HTML like this. Oh and please dont have a seizure.**
 
 
 
-**✨ Features (no, you won’t be stealing my backend — optimizations not included)**
+**✨ Features (no, you won’t be stealing my backend, optimizations not included)**
 - Neural Armageddon Mode
 - Built-in daemonic possession + SSD detonation protocol (beta).
 - Pathfinding Goldilocks Optimization
@@ -16,7 +16,7 @@
 
 
 
-⚡ M-SERIOUS APPLE SILICON OPTIMIZED
+### ⚡ M-SERIOUS APPLE SILICON OPTIMIZED
 
 <img width="1345" height="962" alt="screenshot1" src="https://github.com/user-attachments/assets/7daf1de1-8e95-4c81-88cc-14aebe7b1d11" />  
 <br>  
@@ -30,34 +30,28 @@
 
 
 
-⸻
 
-🚧 Coming Soon
-	•	A “F* YOU DAEMONS”** button to banish digital entities.
+### 🚧 Coming Soon
+	•	A “F* YOU DAEMONS” button to banish digital entities.
 	•	“All the world’s answers” (we’ll get to it).
 	•	Data Science Core + Your Mom Integration™.
 	•	Bio-Quantum Lab with fake CRISPR sliders.
 
-⸻
 
-🕹️ Usage
+**🕹️ Usage**
 
-# Step 1: clone
+**Step 1: clone**
 git clone https://github.com/jguida941/LDSM
 
-# Step 2: run
+**Step 2: run**
 open index.html
 
 This launches the LDSM dashboard.
 
 ⚠️ WARNING: Seizure Mode and Neural Armageddon features contain flashing lights and loud sounds. Use responsibly (or irresponsibly, whatever).
 
-⸻
 
-🗄️ Repository
+**🗄️ Repository**
 
-This repo exists solely to confuse recruiters, terrify daemons, and flex PyQt6/HTML/JS UI wizardry.
+This repo exists solely to confuse recruiters, terrify daemons, and flex HTML wizardry.
 
-⸻
-
-Do you want me to make you an extra “Corporate Edition” README too — same project, but written like it’s a real HPC/AI research tool for recruiters who don’t get the joke? That way you can toggle between shitpost vs serious mode.
